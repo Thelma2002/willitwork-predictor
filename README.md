@@ -74,16 +74,16 @@ willitwork-predictor/
 ├── feature_cols.pkl       # Feature column names
 ├── images/
 │   └── feature_importance.png
-└── README.md             # This file
+└── README.md              # This file
 
 # WillItWork? Success Predictor
 
-## 📊 Data Privacy
+## Data Privacy
 This app does **not** collect or store any of your data.  
 All inputs are processed locally in your browser session and immediately discarded after prediction.
 
 
-## 👤 About The Creator
+## About The Creator
 Built by **Lungile Zulu** as part of a Data Science Portfolio.  
 This project demonstrates:
 
@@ -92,7 +92,7 @@ This project demonstrates:
 - User-friendly interface design for non-technical users  
 
 
-## 📂 Portfolio Context
+## Portfolio Context
 This app is **Project 3 of 3** in the Data Science portfolio:
 
 1. **Side Hustle Viability Scorecard**  
@@ -100,14 +100,14 @@ This app is **Project 3 of 3** in the Data Science portfolio:
 3. **WillItWork? Success Predictor** 
 
 
-## ⚠️ Known Limitations
+## Known Limitations
 - Model trained on **synthetic data**, not real business outcomes  
 - Results are **predictions, not guarantees**  
 - Works best for **online, digital-first side hustles**  
 - Accuracy may vary outside the **South African market context**  
 
 
-## 🚀 Future Improvements
+## Future Improvements
 - Add more business models and categories  
 - Improve model with **real business outcome data**  
 - Add **export functionality** for results  
