@@ -65,18 +65,20 @@ Used AI to help structure the Streamlit app layout and debug the
 label encoder integration. Model selection, feature importance
 interpretation, and all personalised recommendation logic are original.
 
-## Files
+# Project Directory Structure
+
+Below is the organized file structure for the **willitwork-predictor** project:
+
+```text
 willitwork-predictor/
-├── app.py                 # Main application code
-├── requirements.txt       # Python package dependencies
-├── willitwork_model.pkl   # Trained Random Forest model
-├── label_encoders.pkl     # Label encoders for categories
-├── feature_cols.pkl       # Feature column names
+├── app.py                   # Main application code
+├── requirements.txt         # Python package dependencies
+├── willitwork_model.pkl     # Trained Random Forest model
+├── label_encoders.pkl       # Label encoders for categories
+├── feature_cols.pkl         # Feature column names
 ├── images/
 │   └── feature_importance.png
-└── README.md              # This file
-
-# WillItWork? Success Predictor
+└── README.md                # Project documentation
 
 ## Data Privacy
 This app does **not** collect or store any of your data.  
