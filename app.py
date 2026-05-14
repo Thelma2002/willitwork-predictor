@@ -202,7 +202,7 @@ if predict_btn:
     # ── Feature importance chart ───────────────────────────────────────────────
     st.subheader("What the Model Considers Most Important")
     try:
-        st.image('images/feature_importance.png', use_column_width=True)
+        st.image('images/feature_importance.png', width=True)
     except:
         st.write("Feature importance chart not found. Make sure feature_importance.png "
                  "is in the images/ folder.")
