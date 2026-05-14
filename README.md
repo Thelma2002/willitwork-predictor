@@ -79,6 +79,7 @@ willitwork-predictor/
 ├── images/
 │   └── feature_importance.png
 └── README.md                # Project documentation
+```
 
 ## Data Privacy
 This app does **not** collect or store any of your data.  
